@@ -1,0 +1,16 @@
+body {
+    background-color: lightslategray;
+}
+
+h2 ~ p {
+    color: grey;
+ }
+ 
+.red-text {
+    color: red;
+ } 
+
+#mySection {
+    font-weight: bold;
+ }
+ 
